@@ -1,0 +1,16 @@
+{
+  "name": "karaliunas/manual-reviews-for-woocommerce",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/karaliunas/manual-reviews-for-woocommerce",
+  "authors": [
+    {
+      "name": "Manual Reviews for WooCommerce",
+      "homepage": "https://github.com/sonomesbah/manual-reviews-for-woocommerce/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.0"
+  }
+}
